@@ -1,0 +1,18 @@
+{
+  "name": "test-publish-chuank",
+  "main": "./lib/test-publish-chuank",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "test-publish-chuank:toggle"
+  },
+  "repository": "https://github.com/atom/test-publish-chuank",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
