@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "test-publish-chuank:toggle"
   },
-  "repository": "https://github.com/atom/test-publish-chuank",
+  "repository": "https://github.com/chuank/test-publish-chuank",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
